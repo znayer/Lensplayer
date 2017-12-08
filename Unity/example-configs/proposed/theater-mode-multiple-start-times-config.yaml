@@ -1,0 +1,4 @@
+theater_mode: true
+video_filename: filename.mp4 # video in /welens directory
+video_start_time: 01/01/2017 10:00:00;01/01/2017 10:10:00;01/01/2017 10:20:00
+video_auto_start: false

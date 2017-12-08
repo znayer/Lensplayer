@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 1abfa45a0d10f459e99696a02337986d
+timeCreated: 1501708033
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Riesling
+  fontNames:
+  - Riesling
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

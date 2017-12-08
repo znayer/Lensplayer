@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e5413b49b302640eab0a20c96a8664be
+timeCreated: 1501707828
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: KasseUltraFLF
+  fontNames:
+  - KasseUltraFLF
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

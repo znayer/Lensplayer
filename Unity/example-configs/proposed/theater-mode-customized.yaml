@@ -1,0 +1,5 @@
+theater_mode: true
+video_filename: filename.mp4 # video in /welens directory
+video_start_time: 01/01/2017 10:00:00
+menu_text: This is a custom text message that will display on the waiting screen.
+video_auto_start: false

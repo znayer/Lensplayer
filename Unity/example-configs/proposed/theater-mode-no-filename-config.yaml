@@ -1,0 +1,5 @@
+theater_mode: true
+#video_filename: filename.mp4 # video in /welens directory
+# when video filename isn't specified, first video in alphabetical order should be used
+video_start_time_utc: 01/01/2017 10:00:00 # UTC-based start time that doesn't rely on local time zone setting on device
+video_auto_start: false

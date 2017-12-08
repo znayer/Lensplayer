@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b5755d77bb5bc4c5faf5bf0d9dde964c
+timeCreated: 1501707481
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: November Sky Demo
+  fontNames:
+  - November Sky Demo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 35227f73d265e463d87fa0594680da22, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

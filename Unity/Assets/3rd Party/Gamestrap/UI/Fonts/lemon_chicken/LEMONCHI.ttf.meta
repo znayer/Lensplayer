@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 38b47ba564d534cbab5501ed354a3843
+timeCreated: 1501707150
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: LemonChicken
+  fontNames:
+  - LemonChicken
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

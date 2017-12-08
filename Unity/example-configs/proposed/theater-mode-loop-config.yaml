@@ -1,0 +1,6 @@
+theater_mode: true
+video_filename: filename.mp4 # video in /welens directory
+video_start_time: 01/01/2017 10:00:00
+autoloop: true # play on loop when finished
+autoloop-intermission: 120 # number of seconds between play times
+video_auto_start: false
